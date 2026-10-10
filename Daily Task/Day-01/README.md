@@ -1,38 +1,36 @@
-\# Day 01
+# Day 01 - Java Platform Basics
 
+## Topics Covered
+- JDK
+- JRE
+- JVM
+- JVM Architecture
+- Java Compilation
+- Bytecode
+- Class Loader
+- Interpreter
+- JIT
+- Garbage Collection
+- Agile/Scrum
 
+## Commands Used
 
-\## Date
+javac PlatformInfo.java
+java PlatformInfo
+javap -c PlatformInfo
+java -verbose:class PlatformInfo
 
-06 October 2026
+## Java Compilation Flow
 
+.java → javac → .class → JVM → Execution
 
+## Screenshots
+- Program output
+- javap output
+- verbose class loading
 
-\## Today's Tasks
+## Project Task
+8 user stories created with story points.
 
-\- 
-
-
-
-\## What I Learned
-
-\- 
-
-
-
-\## Problems Solved
-
-\- 
-
-
-
-\## Difficulties
-
-\- 
-
-
-
-\## Tomorrow's Plan
-
-\- 
-
+## Definition of Done
+...
