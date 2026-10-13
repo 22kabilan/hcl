@@ -50,13 +50,4 @@ Use encapsulation, constructors, and appropriate data types.
 
 \## Git Commands
 
-```bash
-
-git add .
-
-git commit -m "day-4: oop-concepts"
-
-git push
-
-```
 

@@ -42,15 +42,3 @@ Create an abstract `Payment` class with `CardPayment`, `UPIPayment`, and `CashPa
 
 
 
-\## Git Commit
-
-```bash
-
-git add .
-
-git commit -m "day-5: inheritance-polymorphism"
-
-git push
-
-```
-
