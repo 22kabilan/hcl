@@ -1,4 +1,4 @@
-# Day 07 - Collections Framework
+Day 07 - Collections Framework
 
 ## Topics Covered
 - `List`, `Set`, `Queue`
