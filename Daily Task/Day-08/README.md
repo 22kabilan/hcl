@@ -1,4 +1,4 @@
-# Day 08 - Collections Framework (Part 2)
+Day 08 - Collections Framework 
 
 ## Topics Covered
 - `Map` interface: `HashMap` vs `TreeMap`
